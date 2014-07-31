@@ -3,6 +3,12 @@ isdir ()
 
 Determine if path is a directory
 
+## install
+
+```sh
+$ clib install jwerle/isdir.c
+```
+
 ## synopsis
 
 ```c
